@@ -4,7 +4,6 @@
 Welcome to my personal portfolio website!  
 This project showcases my background, interests, and journey into the world of technology as an aspiring software developer.
 
-![Screenshot of Portfolio](preview-image.png) <!-- Replace with a real screenshot of your site -->
 
 ---
 
